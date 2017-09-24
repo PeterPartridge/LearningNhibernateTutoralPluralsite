@@ -1,0 +1,14 @@
+c:\users\peterplay\documents\visual studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\bin\Debug\LearningNhibernateTutoral1.exe.config
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\obj\Debug\LearningNhibernateTutoral1.csprojResolveAssemblyReference.cache
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\bin\Debug\LearningNhibernateTutoral1.exe
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\bin\Debug\LearningNhibernateTutoral1.pdb
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\bin\Debug\Iesi.Collections.dll
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\bin\Debug\NHibernate.dll
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\bin\Debug\Iesi.Collections.xml
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\bin\Debug\NHibernate.xml
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\obj\Debug\LearningNhibernateTutoral1.exe
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\obj\Debug\LearningNhibernateTutoral1.pdb
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\bin\Debug\HibernatingRhinos.Profiler.Appender.dll
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\bin\Debug\WebActivatorEx.dll
+C:\Users\PeterPlay\Documents\Visual Studio 2015\Projects\LearningNhibernateTutoral1\LearningNhibernateTutoral1\bin\Debug\hibernate.cfg.xml

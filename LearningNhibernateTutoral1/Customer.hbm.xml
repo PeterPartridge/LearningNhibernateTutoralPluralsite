@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2"
+                   assembly="LearningNhibernateTutoral1"
+                   namespace="LearningNhibernateTutoral1">
+
+  <class name="Customer">
+    <id name="Id">
+      <genrator class="native"/>
+    </id>
+    <property name="FirstName"/>
+    <property name="LastName"/>
+    <!--Data is held in the same table but will be mapped to a seprate class-->
+    <component name="Location">
+      <property name="Street"/>
+      <property name="City"/>
+      <property name="Provance"/>
+      <property name="Country"/>
+    </component>
+
+    <!--If adresss was its own table this is how many to many relationship is set up.-->
+    <!-- Fetch="join" - This will get data using a join to you will always get all adress for this customer.-->
+    <set name="Addresses" table="Address" fetch="join">
+      <key column="CustomerId"/>
+      <many-to-many cloumn="AdressId" class="Adress"/>
+    </set>
+<!--inverse = true will stop dupliucate fk updates, but DB may not have DB FK updated.-->
+    <set name="Orders" table="`Order`" cascade="all-delete-orphan" inverse="true">
+      <key column="CustomerId"/>
+      <one-to-many class="Order"/>
+    </set>
+  </class>
+</hibernate-mapping>
+
+
+
